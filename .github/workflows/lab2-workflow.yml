@@ -9,10 +9,8 @@ on:
         required: false
       custom_message:
         description: "Enter a custom message"
-        required: true
         type: string
-
-      
+        required: true
 
 jobs:
   job1:
